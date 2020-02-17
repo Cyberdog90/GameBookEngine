@@ -1,0 +1,6 @@
+foo
+bar
+baz
+@IF 2 File1.gbf File2.gbf
+@IF -1 choice01 choice02
+@INPUT
